@@ -1,0 +1,13 @@
+# Visual Studio temporary files
+.vs/
+# ������ �����
+appsettings*.json
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.db
+# ����� ������������ � ��������� (���� �)
+appsettings.Development.json
+appsettings.jsonbin/Debug/net8.0/appsettings.json
